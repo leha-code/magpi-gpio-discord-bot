@@ -1,2 +1,3 @@
 # magpi-gpio-discord-bot
-The Discord GPIO bot source code.
+The source code for the bot made for the MagPi magazine
+
